@@ -1,3 +1,6 @@
+![Restaurant Data Analysis](project_banner_1.png)
+
+
 # Restaurant Data Analysis & Dashboard Development
 
 ## 📊 Project Overview
